@@ -1,3 +1,6 @@
+Name: Dharsan Ravichandran
+NIC: 990631816V
+
 FrontEnd - ReactJS
 Backend - Python/Django
 Database - SQLite(default DB)
